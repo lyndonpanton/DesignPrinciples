@@ -21,7 +21,6 @@ h1 {
 }
 
 header {
-    padding: 10px;
     background-color: #8AB2E7;
 }
 
@@ -53,6 +52,8 @@ header {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
+
+    padding: 10px;
 }
 
 #nav-button {
