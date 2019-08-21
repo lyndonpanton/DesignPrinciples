@@ -20,6 +20,10 @@ h1 {
     font-size: 1.2em;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
 header {
     background-color: #8AB2E7;
 }
@@ -71,7 +75,7 @@ header {
 
 #nav-list {
 	position: absolute;
-	
+
     margin: 0;
     list-style-type: none;
     overflow: hidden;
