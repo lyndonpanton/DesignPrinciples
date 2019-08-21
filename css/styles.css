@@ -25,7 +25,6 @@ header {
 }
 
 .nav-item {
-    padding: 8px 0;
     font-size: 0.8em;
 }
 
@@ -35,6 +34,7 @@ header {
 
 .nav-link {
 	display: block;
+    padding: 8px 0;
     text-decoration: none;
     color: black;
 }
