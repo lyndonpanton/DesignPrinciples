@@ -34,6 +34,15 @@ header {
     background-color: aliceblue;
 }
 
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
 .nav-open {
     max-height: 216px !important;
     
