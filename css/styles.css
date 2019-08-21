@@ -25,6 +25,15 @@ header {
     background-color: #8AB2E7;
 }
 
+.nav-item {
+    padding: 8px 0;
+    font-size: 0.8em;
+}
+
+.nav-item:hover {
+    background-color: aliceblue;
+}
+
 .nav-open {
     max-height: 216px !important;
     
