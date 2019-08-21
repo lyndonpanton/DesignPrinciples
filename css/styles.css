@@ -31,6 +31,18 @@ header {
 	justify-content: space-between;
 }
 
+#nav-button {
+    border: #FFFFFF solid 1px;
+    border-radius: 6px;
+    background-color: transparent;
+    font-size: 1.2em;
+    color: #FFFFFF;
+}
+
+#nav-button:active {
+    background-color: steelblue;
+}
+
 
 /* main /////////////////////////////// */
 
