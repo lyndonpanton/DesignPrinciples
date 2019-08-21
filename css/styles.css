@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+/* general /////////////////////////////// */
 body, html {
 	margin: 0;
 	padding: 0;
@@ -10,3 +11,19 @@ body, html {
 	font-size: 16px;
 	color: #000000;
 }
+
+
+
+/* header /////////////////////////////// */
+header {
+    padding: 10px 10px 0;
+    background-color: #8AB2E7;
+}
+
+
+/* main /////////////////////////////// */
+
+
+
+/* footer /////////////////////////////// */
+
