@@ -39,6 +39,7 @@ header {
 .nav-link {
 	display: block;
     padding: 8px 0;
+    height: 15px;
     text-decoration: none;
     color: black;
 }
