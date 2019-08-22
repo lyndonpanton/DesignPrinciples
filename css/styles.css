@@ -116,4 +116,9 @@ main {
 }
 
 /* footer /////////////////////////////// */
-
+footer {
+    margin: 10px 0 0;
+    padding: 5px 0;
+    background-color: #8AB2E7;
+    text-align: center;
+}
