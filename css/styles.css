@@ -122,3 +122,9 @@ footer {
     background-color: #8AB2E7;
     text-align: center;
 }
+
+#more {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
