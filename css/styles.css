@@ -123,6 +123,34 @@ footer {
     text-align: center;
 }
 
+.more-link {
+    color: #000000;
+
+    transition: all 0.4s linear;
+}
+
+.more-link:hover {
+    transition: all 0.4s linear;
+    transform: scale(2.2);
+}
+
+#more-facebook:hover {
+    color: #3B5998;
+}
+
+#more-twitter:hover {
+    color: #1DA1F2;
+}
+
+#more-instagram:hover {
+    color: #C32AA3;
+}
+
+#more-youtube:hover {
+    /*color: #CC0000;*/
+    color: #FF0000;
+}
+
 #more {
     display: flex;
     flex-direction: row;
