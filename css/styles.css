@@ -225,6 +225,10 @@ footer {
     header {
         display: flex;
         justify-content: space-between;
+        position: fixed;
+        top: 0px;
+
+        min-width: 100%;
     }
 
     header > * {
