@@ -225,14 +225,20 @@ footer {
     header {
         display: flex;
         justify-content: space-between;
+
         position: fixed;
         top: 0px;
+        z-index: 1;
 
         min-width: 100%;
     }
 
     header > * {
         flex: 1;
+    }
+
+    main {
+        padding-top: 50px;
     }
 
     #header {
