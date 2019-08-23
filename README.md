@@ -17,7 +17,7 @@
 
 ## User Stories
 > 1. Users can toggle navigation menu
-> 1. Users can read design principles
+> 2. Users can read design principles
 
 ## Preview
 ![Screenshot 1](./img/screenshot1.png)
