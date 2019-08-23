@@ -182,4 +182,8 @@ footer {
         padding-right: 80px;
         padding-left: 80px;
     }
+
+    .principle {
+        width: 30%;
+    }
 }
