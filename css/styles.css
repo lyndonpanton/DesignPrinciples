@@ -179,6 +179,10 @@ footer {
     }
 
     #nav-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        
         max-height: initial;
     }
 
