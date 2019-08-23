@@ -178,6 +178,10 @@ footer {
         display: none;
     }
 
+    #nav-list {
+        max-height: initial;
+    }
+
     #principles {
         display: flex;
         flex-direction: row;
