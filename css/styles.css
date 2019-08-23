@@ -223,8 +223,17 @@ footer {
         justify-content: space-between;
     }
 
+    header > * {
+        flex: 1;
+    }
+
     #header {
         justify-content: flex-start;
+    }
+
+    #nav-list {
+        padding-top: 9px;
+        padding-bottom: 9px;
     }
 }
 
