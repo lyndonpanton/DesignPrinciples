@@ -158,6 +158,12 @@ footer {
 }
 
 @media screen and (min-width: 700px) {
+    /* footer //////////////////////////////// */
+    main {
+        padding-right: 60px;
+        padding-left: 60px;
+    }
+
     .principle {
         width: 40%;
     }
