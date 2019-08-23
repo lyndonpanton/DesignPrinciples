@@ -162,6 +162,8 @@ footer {
     main {
         padding-right: 60px;
         padding-left: 60px;
+        line-height: 1.5em;
+        font-size: 1.1em;
     }
 
     .principle {
@@ -181,6 +183,8 @@ footer {
     main {
         padding-right: 80px;
         padding-left: 80px;
+        line-height: 1.6em;
+        font-size: 1.3em;
     }
 
     .principle {
