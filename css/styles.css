@@ -158,7 +158,7 @@ footer {
 }
 
 @media screen and (min-width: 700px) {
-    /* footer //////////////////////////////// */
+    /* main //////////////////////////////// */
     main {
         padding-right: 60px;
         padding-left: 60px;
@@ -173,5 +173,13 @@ footer {
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-between;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    /* main //////////////////////////////// */
+    main {
+        padding-right: 80px;
+        padding-left: 80px;
     }
 }
